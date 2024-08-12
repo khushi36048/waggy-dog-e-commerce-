@@ -1,0 +1,176 @@
+img{
+    height: 100px;
+    width: 90px;
+    opacity: 20px;
+    float: left;
+    margin: 6px;
+}
+.yellow{
+    border: 4px;
+    border-bottom: 4px ;
+    border-color: antiquewhite;
+    background-color: beige;
+    height: 112px;
+    width: 1350px;
+    display: flex;
+
+}
+.red{
+    float: 2px;
+    text-align: left;
+    font-family: cursive;
+    margin-bottom: auto;
+
+
+}
+.white{
+    font-family: fangsong;
+    filter: contrast(0.5);
+    text-align: start;
+    margin-top: auto;
+}
+.cen{
+    display:inline-block;
+}
+.icon{
+    display:flow-root;
+    padding: 18px;
+    background-color: #faebd7c7;
+    width: 1315px;
+
+}
+span{
+    font-size: 25px;
+    padding: 4px;
+    
+}
+.dog{
+    width: 394px;
+    height: 540px;
+    filter: transparency(2px);
+    float: left;
+    margin-right: 300px;
+    object-fit: contain;
+    object-position: 10px;
+    
+
+}
+.hii{
+    height: 550px;
+    width: 1350px;
+    background-color: rgb(243, 242, 245);
+    object-fit: contain;
+
+}
+.bye{
+    width: 119px;
+    height: 40px;
+    align-self: flex-end;
+    font-weight: 20;
+    
+
+}
+.bye:hover{
+    background-color: white;
+}
+.redi{
+    width: 100px;
+    height: 40px;
+    font-weight: 20;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+    float: right;
+    margin-top: -68px;
+    
+}
+.redi:hover{
+    background-color: rgb(207, 203, 203);
+    
+}
+.dog1{
+    height: 200px;
+    width: 1000px;
+    border-radius: 6px;
+    padding: 50px;
+    border-color: black;
+    border: 4px;
+}
+.text{
+    text-align: center;
+    font-size: x-large;
+    font-style: initial;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+    text-align: center;
+    font-family: arial;
+    width: 300px;
+  }
+  
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }
+  .xyz{
+    display: ruby-text;
+    padding:12px;
+    
+
+  }
+  .cat{
+    width: 284px;
+    height: 270px;
+    float: right;
+    border-radius: 160px;
+    border: 2px;
+    margin-right: 40px;
+    box-shadow: 6px;
+}
+.lion{
+    background-color: #e5a873a1;
+    height: 282px;
+}
+.mahak{
+
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -20px;
+    object-fit: cover;
+    margin-top: -35px;
+    filter:opacity(9);
+    
+    
+}
+.h{
+    background-color: blanchedalmond;
+    height: 340px;
+}
+.cir{
+    margin-left: 475px;
+    align-self: center;
+}
+.aryan{
+    display:flex;
+    padding:18px;
+    font-size: xx-large;
+    filter:opacity(0.9)
+    
+}
